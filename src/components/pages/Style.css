@@ -1,0 +1,55 @@
+.Login {
+  margin-top: 15%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+input[type='text'] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: blue;
+  padding: 1px;
+  text-align: left;
+}
+
+nav h3 {
+  display: inline;
+  background-color: yellow;
+  padding: 2px;
+  border-radius: 25px;
+  margin-right: 85%;
+}
+
+nav button {
+  display: inline;
+  padding: 2px;
+  background-color: purple;
+  color: white;
+}
+
+table,
+td,
+th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 15px;
+}
